@@ -1,4 +1,4 @@
-![Banner](<https://drscdn.500px.org/photo/1072443473/q%3D50_w%3D1000_of%3D1/v2?sig=23e04a657ab72bca2b11361199c7ce25ef1c0a89ee6db472104863d8ef5b15bc>)
+![Banner](<https://github.com/Mukesh-Pant/Mukesh-Pant/blob/main/Profile_Banner.png>)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Mukesh+Pant)](https://git.io/typing-svg)
 
