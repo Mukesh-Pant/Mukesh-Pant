@@ -1,7 +1,5 @@
 ![Banner](<https://github.com/Mukesh-Pant/Mukesh-Pant/blob/main/Profile_Banner.png>)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Mukesh+Pant)](https://git.io/typing-svg)
-
+[![Typing SVG](https://github.com/Mukesh-Pant/Mukesh-Pant/blob/main/output-onlinegiftools%20(1).gif)](https://git.io/typing-svg)
 
 <h3 align="center">A learner and technophile person from Sudurpaschim</h3>
 
